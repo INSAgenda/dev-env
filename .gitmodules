@@ -1,0 +1,12 @@
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/AlixANNERAUD/web-app.git
+[submodule "common"]
+	path = common
+	url = https://github.com/INSAgenda/common.git
+[submodule "yew-template"]
+	path = yew-template
+	url = https://github.com/INSAgenda/yew-template.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/INSAgenda/frontend.git
