@@ -1,6 +1,6 @@
 [submodule "web-app"]
 	path = web-app
-	url = https://github.com/AlixANNERAUD/web-app.git
+	url = https://github.com/INSAgenda/web-app.git
 [submodule "common"]
 	path = common
 	url = https://github.com/INSAgenda/common.git
