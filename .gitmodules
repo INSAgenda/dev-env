@@ -13,3 +13,6 @@
 [submodule "web-api"]
 	path = web-api
 	url = https://github.com/INSAgenda/web-api.git
+[submodule "resterror"]
+	path = resterror
+	url = https://github.com/INSAgenda/resterror.git
