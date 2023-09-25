@@ -10,3 +10,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/INSAgenda/frontend.git
+[submodule "web-api"]
+	path = web-api
+	url = https://github.com/INSAgenda/web-api.git
