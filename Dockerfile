@@ -17,7 +17,7 @@ RUN cd ./web-app && trunk build --public-url=agenda --release
 
 FROM debian:bookworm-slim
 
-RUN apt-get update && apt install -y sqlite3 ca-certificates && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt install -y sqlite3 ca-certificates nginx && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /insagenda
 
